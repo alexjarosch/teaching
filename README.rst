@@ -2,7 +2,7 @@
 .. This file should be written using restructured text conventions
 
 ===========================
-Alex Jaroscj teaching resources
+Teaching resources from Alex Jarosch
 ===========================
 
 I will place teaching material in this repo
