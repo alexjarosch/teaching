@@ -82,3 +82,8 @@ and your terminal should display::
     <class 'fipy.solvers.scipy.linearLUSolver.LinearLUSolver'>
     
 which confirms that fipy is ready and will use the scipy package to solve linear systems of equations, which is entirely sufficient for our course.
+
+Using your system installed python or any other setup
+-----------------------------------------------------
+
+I am terribly sorry, but I do not have the time to support your custom install. I strongly recommend that you install `miniconda <http://conda.pydata.org/docs/install/quick.html>`_ or use Fabien Maussion's `manual <https://github.com/fmaussion/teaching/blob/master/install_python.rst>`_. After you have miniconda up and running, just follow `Using your own computer with miniconda`_.
